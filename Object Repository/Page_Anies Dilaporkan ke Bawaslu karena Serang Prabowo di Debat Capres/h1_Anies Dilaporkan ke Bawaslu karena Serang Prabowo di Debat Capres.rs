@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Anies Dilaporkan ke Bawaslu karena Serang Prabowo di Debat Capres</name>
+   <tag></tag>
+   <elementGuidId>ceca0994-ebb9-4e1c-8898-bf836c00c55f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.read__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>2389286e-b677-4d58-bd1b-e4835256aa56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>read__title</value>
+      <webElementGuid>acccda7e-21f1-4e27-bfe0-41bca945348f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anies Dilaporkan ke Bawaslu karena Serang Prabowo di Debat Capres</value>
+      <webElementGuid>b0d6bac3-a969-42ab-b435-e1c7c73f6b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js csstransitions&quot;]/body[@class=&quot;theme--news page--read&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container clearfix&quot;]/div[@class=&quot;row mt2 col-offset-fluid clearfix&quot;]/div[@class=&quot;col-bs10-10&quot;]/h1[@class=&quot;read__title&quot;]</value>
+      <webElementGuid>80d71580-0bb8-4159-81e5-fbfce2f2945f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>0fbcafe0-bc5c-4b9b-9ddc-f16430ca1fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Anies Dilaporkan ke Bawaslu karena Serang Prabowo di Debat Capres' or . = 'Anies Dilaporkan ke Bawaslu karena Serang Prabowo di Debat Capres')]</value>
+      <webElementGuid>b45286dc-7bba-4caf-a4ae-1cd067d51f9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

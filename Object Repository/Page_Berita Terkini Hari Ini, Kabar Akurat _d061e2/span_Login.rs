@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>5e75f786-8163-48a3-a2e3-24859a1aae5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_signin > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='txt_signin']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c39e9130-6125-4a97-912b-86f10d62573f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>a6775d13-75b3-4cc8-a4a6-707d71d568c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_signin&quot;)/span[1]</value>
+      <webElementGuid>c4948cdb-09b1-4bb6-acf7-c2d450effd4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='txt_signin']/span</value>
+      <webElementGuid>41b93cfa-455f-4fd3-b576-14359a2ce302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span</value>
+      <webElementGuid>2446aace-da48-4443-888a-f9915ec3c841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Login' or . = ' Login')]</value>
+      <webElementGuid>bc02bb8f-2010-4543-a011-9dcfb7cc210d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
